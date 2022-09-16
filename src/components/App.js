@@ -12,7 +12,7 @@ class App extends React.Component {
       {
         params: {
           q: term,
-          appid: "f01c75f13553e2900e51d8744f5aee8c",
+          appid: "",
           units: "metric",
         },
       }
